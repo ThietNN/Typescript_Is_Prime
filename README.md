@@ -1,0 +1,1 @@
+# Typescript_Is_Prime
